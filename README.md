@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sherif</h1>
-<h3 align="center">Deep learning engineer</h3>
+<h3 align="center">Machine learning engineer</h3>
 
 - 🌱 I’m currently learning **computer vision**
 
