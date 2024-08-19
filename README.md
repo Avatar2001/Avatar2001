@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sherif</h1>
-<h3 align="center">Computer Vision Engineer</h3>
+<h3 align="center">Machine Learning Engineer</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/126995f4-e020-455b-9121-cfd3c52135f4" alt="Animated GIF" width="400"/>
