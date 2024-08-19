@@ -4,6 +4,8 @@
 
 
 ## 🌐 Socials:
+[![LeetCode](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=leetcode&logoColor=white)]([https://linkedin.com/in/www.linkedin.com/in/mohamed-sherif-35a488195](https://leetcode.com/u/Avatar123/)) 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamed-sherif-35a488195) 
 
 # 💻 Tech Stack:
