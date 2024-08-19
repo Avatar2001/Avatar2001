@@ -10,11 +10,8 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamed-sherif-35a488195) 
-
 [![LeetCode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Avatar123/)
-
 [![HackerRank](https://img.shields.io/badge/HackerRank-%230077B5.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/khaledahmed33k)
-
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedsherif01)
 
 
