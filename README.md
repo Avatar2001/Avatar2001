@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sherif</h1>
 <h3 align="center">Computer Vision Engineer</h3>
+<div class="container">
 
-<h1 align="center"> ![source](https://github.com/user-attachments/assets/126995f4-e020-455b-9121-cfd3c52135f4)</h1>
+ <img src="![source](https://github.com/user-attachments/assets/126995f4-e020-455b-9121-cfd3c52135f4)
+your-gif-url.gif" alt="Animated GIF">
 
+ </div>
 
 ## 🌐 Socials:
 
