@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning computer vision<br>
 
-![Uploading giphy.gif…]()
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamed-sherif-35a488195) 
