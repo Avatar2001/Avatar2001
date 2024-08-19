@@ -9,8 +9,13 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamed-sherif-35a488195) 
+<p align="left">
 
+<a href="https://kaggle.com/https://www.kaggle.com/mohamedsherif01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohamedsherif01" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/khaledahmed33k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/khaledahmed33k" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/avatar123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/avatar123/" height="30" width="40" /></a>
+ 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
